@@ -5,8 +5,8 @@
 
 Control Flow Graph
 --------------------
+![cfg-lab2-192138](https://user-images.githubusercontent.com/52199952/119858061-67673400-bf14-11eb-8ed3-eea8038906c4.png)
 
-![cfg-lab2-192138](https://user-images.githubusercontent.com/52199952/119857530-f293fa00-bf13-11eb-9403-bbb886ab19d6.png)
 
 
 Цикломатска комплексност
