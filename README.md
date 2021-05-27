@@ -6,7 +6,7 @@
 Control Flow Graph
 --------------------
 
-![cfg_SI](https://user-images.githubusercontent.com/52199952/119793722-20a71900-bed7-11eb-940e-490d5e1f1ec4.png)
+
 
 Цикломатска комплексност
 --------------------------
